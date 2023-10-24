@@ -401,4 +401,5 @@ bar = Progressbar(fun,orient=HORIZONTAL,length=1500)
 bar.place(x=0,y=645,height=20)
 
 fun.update()
+fun.update()
 fun.mainloop()
